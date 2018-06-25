@@ -42,6 +42,8 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-byebug'
   gem 'pry-doc'
+  gem 'haml-rails'
+  gem 'erb2haml'
 end
 
 group :development do
