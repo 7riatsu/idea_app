@@ -45,6 +45,8 @@ group :development, :test do
   gem 'haml-rails'
   gem 'erb2haml'
   gem 'devise'
+  gem 'omniauth'
+  gem 'omniauth-twitter'
 end
 
 group :development do
